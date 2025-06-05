@@ -12,7 +12,6 @@
 <br>
 
 - :school: I am currently a `Computer Science Student` at [University of Buenos Aires](https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-de-la-computacion/).
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using software as a solution to every `problem`.
 - :student: I’m currently learning `Computer Science` and `Data Analysis`.
 - :nerd_face: Always `learning new things`.
@@ -62,7 +61,9 @@
 <p align="center">
 <a href="https://seba-medina-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sebastian-medina-334206228/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:medinasebastian172@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:medinasebastian172@gmail.com" onclick="navigator.clipboard.writeText('medinasebastian172@gmail.com'); alert('Email copied to clipboard!');">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 <!--
 **SebaMedina172/SebaMedina172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
